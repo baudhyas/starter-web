@@ -10,3 +10,4 @@ Sample website with plenty of files for demos
 
 asdfgh.
 zxcvb my feature
+new feature
